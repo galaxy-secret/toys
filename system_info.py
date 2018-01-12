@@ -1,5 +1,5 @@
 # coding: utf-8
-# __author__ = duanbin
+# __author__ = panda
 
 '''
 将 系统信息保存到 mongodb中
